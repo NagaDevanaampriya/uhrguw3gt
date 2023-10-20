@@ -1,0 +1,41 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+img{
+    width: 1300px;
+    height: 400px;
+    
+}
+.movie_head{
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    background-color: violet;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+.movie_head i{
+    float:right;
+}
+.movie_head i{
+    float:right;
+}
+.achievements_text span{
+color: burlywood;
+}
+.page-header{
+    font-family:'Franklin Gothic Medium';
+    color:rgb(16, 44, 83);
+}
+
+body{
+    align-content: center;
+}
+#contact iframe{
+    width:100%;
+}
+#picsg{
+    width:70px;
+}
